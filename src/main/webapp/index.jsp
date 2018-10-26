@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! My First Tomcat Deployment</h2>
+<h2>Hello World! My First Tomcat SCM Pool Deployment</h2>
 </body>
 </html>
